@@ -17,8 +17,4 @@ function fizzBuzz(n) {
     })
     
 }
-function main() {
-    const n = parseInt(readLine().trim(), 10);
-
-    fizzBuzz(n);
-}
+ fizzBuzz(15);
